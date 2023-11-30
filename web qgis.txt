@@ -1,0 +1,22 @@
+<html>
+	<head><title>Andrian Arifandi</title>
+	</head>	
+<body>
+	<hr>
+	<h3><p align="center"><font size="4">| ANDRIAN ARIFANDI | 22040274067 | PENDIDIKAN GEOGRAFI | UNIVERSITAS  NEGERI SURABAYA |
+	<hr></p>
+	<h1><b><font color="navy">GOOGLE MYMAPS</h2></u>
+	<h2><font color="black">Andrian Arifandi, 2023.
+	<hr>
+	<h3>Google MyMaps Kecamatan Wonocolo</H3>
+	<iframe src="https://www.google.com/maps/d/embed?mid=1Sew7vvF4AJZ56-Y3qa5rPk7sTbFe_fE&hl=id&ehbc=2E312F" width="640" height="480"></iframe>
+	<br></br>
+	<h2></h2>
+	<h2><font color="black"><font size="5">GOOGLE MYMAPS
+	<h5><p align="justify"><font size="4">Google My Maps adalah sebuah layanan dari Google yang memungkinkan Anda untuk membuat dan berbagi peta khusus dengan tempat-tempat yang penting bagi Anda. Anda dapat menambahkan titik, gambar bentuk, mencari tempat, mengimpor data, mempersonalisasi ikon dan warna, menambahkan foto dan video, serta berkolaborasi dengan orang lain dalam pembuatan peta. </p></h5>
+	<br></br>
+	<h2></h2>
+	<hr><br>
+	<h2><marquee>SEKIAN TERIMAKASIH, SAMPAI JUMPA!!!</marquee></h2>
+</body>
+</html>
